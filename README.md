@@ -27,13 +27,7 @@ shoppers_park/
 ```
 # Screenshots
 
-
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-07 at 23 17 54](https://github.com/user-attachments/assets/982bdb4e-f1e5-4bea-b449-9ee72fc8b463)
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-07 at 23 19 19](https://github.com/user-attachments/assets/32a104db-8d34-4d99-96ad-55cbd198c444)
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-07 at 23 18 17](https://github.com/user-attachments/assets/b204f84e-5c98-4afa-8e4f-63c427c037c4)
-![Simulator Screenshot - iPhone 16 Pro - 2025-05-07 at 23 18 50](https://github.com/user-attachments/assets/913dffbd-b6ef-40ee-af94-9411230f968e)
-![Simulator Scree![Simulator Screenshot - iPhone 16 Pro - 2025-05-07 at 23 19 09](https://github.com/user-attachments/assets/c85ec0f6-3fee-4b2c-9146-00db0b49057e)
-nshot - iPhone 16 Pro - 2025-05-07 at 23 19 01](https://github.com/user-attachments/assets/f95add84-821f-45bd-a419-64d1c4bacddb)
+<p float="left"> <img src="https://github.com/user-attachments/assets/982bdb4e-f1e5-4bea-b449-9ee72fc8b463" width="200" /> <img src="https://github.com/user-attachments/assets/32a104db-8d34-4d99-96ad-55cbd198c444" width="200" /> <img src="https://github.com/user-attachments/assets/b204f84e-5c98-4afa-8e4f-63c427c037c4" width="200" /> <img src="https://github.com/user-attachments/assets/913dffbd-b6ef-40ee-af94-9411230f968e" width="200" /> <img src="https://github.com/user-attachments/assets/f95add84-821f-45bd-a419-64d1c4bacddb" width="200" /> <img src="https://github.com/user-attachments/assets/c85ec0f6-3fee-4b2c-9146-00db0b49057e" width="200" /> </p>
 
 
 
