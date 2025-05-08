@@ -76,7 +76,7 @@ shoppers_park/
 
 2. **Clone the Repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/venusbhatia/shoppers_park/>
    cd shoppers_park
    ```
 
